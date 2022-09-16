@@ -1,5 +1,5 @@
 {
-  "name": "first-library",
+  "name": "@muriloc/first-library",
   "version": "1.0.0",
   "description": "This is my first library fot study",
   "main": "dist/index.js",
@@ -14,5 +14,18 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.8.3"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muriIo/first-library.git"
+  },
+  "keywords": [
+    "first",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/muriIo/first-library/issues"
+  },
+  "homepage": "https://github.com/muriIo/first-library#readme"
 }
